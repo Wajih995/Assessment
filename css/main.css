@@ -28,210 +28,67 @@ body {
 
 .v5_1048 {
   width: 100%;
-    height: 36px;
+    height: 24%;
     background: url(../images/v5_1048.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 40%;
-    left: 85%;
+    top: 36%;
+    left: 77%;
     overflow: hidden;
 }
 .v5_1049 {
-  width: 100%;
-  height: 36px;
-  background: url("../images/v5_1049.png");
+  width: 3.8%;
+  height: 126%;
+  background: url("../images/in2.PNG");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
+  margin-top: -0.24%;
   position: absolute;
-  left: 11%;
-  overflow: hidden;
-}
-.v5_1050 {
-  width: 3%;
-  height: 100%;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  border-radius: 50%;
-}
-.v5_1051 {
-  width: 2%;
-  height: 75%;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 13%;
-  left: 0.6%;
-  overflow: hidden;
-}
-.v5_1052 {
-  width: 100%;
-  height: 20%;
-  background:url("../images/dot\ in.png");
-  background-repeat: no-repeat;
-  opacity: 1;
-  position: absolute;
-  top: 10%;
-  left: 3%;
-}
-.v5_1053 {
-  width: 100%;
-  height: 100%;
-  background:url("../images/in.png");
-  background-repeat: no-repeat;
-  opacity: 1;
-  position: absolute;
-  top: 30%;
-  left: 1%;
-}
-.v5_1054 {
-  width: 100%;
-  height: 100%;
-  background: url("../images/v5_1054.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  left: 7.3%;
-  overflow: hidden;
-}
-.v5_1055 {
-  width: 3%;
-  height: 100%;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  border-radius: 50%;
-}
-.v5_1056 {
-  width: 1.8%;
-  height: 70%;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 15%;
-  left: 0.6%;
-  overflow: hidden;
-}
-.v5_1057 {
-  width: 47%;
-  height: 80%;
-  background:url("../images/fb.png");
-  opacity: 1;
-  position: absolute;
-  top: 4%;
-  left: 24%;
-}
-.v5_1058 {
-  width: 160%;
-  height: 100%;
-  background: url("../images/fb.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  left: 3.6%;
-  overflow: hidden;
-}
-.v5_1059 {
-  width: 1.8%;
-  height: 100%;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  border-radius: 50%;
-}
-.v5_1060 {
-  width: 1%;
-  height: 68%;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 22%;
-  left: 0.37%;
-  overflow: hidden;
-}
-.v5_1061 {
-  width: 100%;
-  height: 100%;
-  background: url("../images/v5_1061.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 1%;
-  left: 9%;
-  overflow: hidden;
-}
-.v5_1062 {
-  width: 100%;
-  height: 100%;
-  background:url("../images/instasquare.png");
-  background-repeat: no-repeat;
-  opacity: 1;
-  position: absolute;
-  top: 0%;
-  left: 0%;
-}
-.v5_1063 {
-  width: 100%;
-  height: 100%;
-  background:url("../images/instacircle.png");
-  background-repeat: no-repeat;
-  opacity: 1;
-  position: absolute;
-  top: 25%;
-  left: 19%;
-}
-.v5_1064 {
-  width: 100%;
-  height: 100%;
-  background:url("../images/instadot.png");
-  background-repeat: no-repeat;
-  opacity: 1;
-  position: absolute;
-  top: 16%;
-  left: 65%;
-}
-.v5_1065 {
-  width: 100%;
-  height: 100%;
-  background: url("../images/v5_1065.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  overflow: hidden;
-}
-.v5_1066 {
-  width: 3%;
-  height: 100%;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  border-radius: 50%;
-}
-.v5_1067 {
-  width: 100%;
-  height: 100%;
-  background: url("../images/twitter.png");
-  opacity: 1;
-  position: absolute;
-  top: 25%;
-  left: 0.7%;
-  background-repeat: no-repeat;
+  left: 12%;
   overflow: hidden;
 }
 
+.v5_1054 {
+  width: 3.8%;
+  height: 114%;
+  background: url("../images/fb2.PNG");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  left: 8%;
+  overflow: hidden;
+}
+
+.v5_1058 {
+  width: 3.8%;
+  height: 106%;
+  background: url("../images/insta2.PNG");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  left: 4%;
+  overflow: hidden;
+}
+.v5_1065 {
+  width: 3.6%;
+  height: 100%;
+  background: url("../images/twitter2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  overflow: hidden;
+}
 
 .v5_1070 {
   width: 85%;
