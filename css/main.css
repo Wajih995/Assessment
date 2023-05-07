@@ -1108,6 +1108,8 @@ body {
   left: 0px;
   border: 2px solid rgba(255,255,255,1);
 }
+
+
 .v5_1234 {
   width: 40%;
   height: 72px;
@@ -1136,42 +1138,64 @@ body {
   overflow: hidden;
 }
 .v5_1236 {
-  width: 50px;
-  color: rgba(47,44,74,1);
-  position: absolute;
-  top: 28px;
-  left: 58px;
-  font-family: Inter;
-  font-weight: Medium;
-  font-size: 16px;
-  opacity: 0.800000011920929;
-  text-align: center;
-}
-.v5_1237 {
-  width: 60px;
-  color: rgba(47,44,74,1);
-  position: absolute;
-  top: 28px;
-  left: 206px;
-  font-family: Inter;
-  font-weight: Medium;
-  font-size: 16px;
-  opacity: 0.800000011920929;
-  text-align: center;
-}
-.v5_1238 {
+
   width: 150px;
   height: 56px;
-  background: url("../images/v5_1238.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
+  color: rgba(47,44,74,1);
   position: absolute;
-  top: 8px;
-  left: 316px;
+  top: 26px;
+  left: 5px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 0.800000011920929;
+  text-align: center;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+  
   overflow: hidden;
 }
+.v5_1237 {
+  
+  width: 150px;
+  height: 56px;
+  color: rgba(47,44,74,1);
+  position: absolute;
+  top: 26px;
+  left: 160px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 0.800000011920929;
+  text-align: center;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+  overflow: hidden;
+}
+.v5_1238 {
+
+  width: 150px;
+  height: 56px;
+  color: rgba(47,44,74,1);
+  position: absolute;
+  top: 26px;
+  left: 318px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 0.800000011920929;
+  text-align: center;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+ overflow: hidden;
+}
+
 .v5_1239 {
   width: 150px;
   height: 56px;
@@ -1187,6 +1211,48 @@ body {
   box-shadow: 0px 7px 22px rgba(0.0013721585273742676, 0.28172218799591064, 0.6586371064186096, 0.3400000035762787);
   overflow: hidden;
 }
+
+/* Style the buttons that are used to open the tab content */
+.v5_1234 button {
+  position: absolute;
+  top: 7px;
+  background-color: inherit;
+  float:none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.v5_1234 button:hover {
+  
+  color: rgb(255, 255, 255);
+  background: rgb(33,123,244,1);
+  opacity: 1;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+  box-shadow: 0px 7px 22px rgba(0.0013721585273742676, 0.28172218799591064, 0.6586371064186096, 0.3400000035762787);
+
+}
+
+/* Create an active/current tablink class */
+.v5_1234 button:active
+{
+  color: rgb(255, 255, 255);
+  background: rgba(33,123,244,1);
+  opacity: 1;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+  box-shadow: 0px 7px 22px rgba(0.0013721585273742676, 0.28172218799591064, 0.6586371064186096, 0.3400000035762787);
+
+}
+
 .v5_1240 {
   width: 51px;
   color: rgba(255,255,255,1);
@@ -1199,6 +1265,9 @@ body {
   opacity: 1;
   text-align: center;
 }
+
+
+
 .v5_1241 {
   width: 33%;
   color: rgba(101,100,100,1);
