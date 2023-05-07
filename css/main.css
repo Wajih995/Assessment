@@ -27,7 +27,7 @@ body {
 }
 
 .v5_1048 {
-  width: 174px;
+  width: 100%;
     height: 36px;
     background: url(../images/v5_1048.png);
     background-repeat: no-repeat;
@@ -40,7 +40,7 @@ body {
     overflow: hidden;
 }
 .v5_1049 {
-  width: 36px;
+  width: 100%;
   height: 36px;
   background: url("../images/v5_1049.png");
   background-repeat: no-repeat;
@@ -48,162 +48,162 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  left: 138px;
+  left: 11%;
   overflow: hidden;
 }
 .v5_1050 {
-  width: 36px;
-  height: 36px;
+  width: 3%;
+  height: 100%;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   border-radius: 50%;
 }
 .v5_1051 {
-  width: 22px;
-  height: 22px;
+  width: 2%;
+  height: 75%;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
-  top: 7px;
-  left: 7px;
+  top: 13%;
+  left: 0.6%;
   overflow: hidden;
 }
 .v5_1052 {
   width: 100%;
-  height: 20px;
+  height: 20%;
   background:url("../images/dot\ in.png");
   background-repeat: no-repeat;
   opacity: 1;
   position: absolute;
-  top: 2px;
-  left: 3px;
+  top: 10%;
+  left: 3%;
 }
 .v5_1053 {
   width: 100%;
-  height: 20px;
+  height: 100%;
   background:url("../images/in.png");
   background-repeat: no-repeat;
   opacity: 1;
   position: absolute;
-  top: 7px;
-  left: 3px;
+  top: 30%;
+  left: 1%;
 }
 .v5_1054 {
-  width: 36px;
-  height: 36px;
+  width: 100%;
+  height: 100%;
   background: url("../images/v5_1054.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  left: 92px;
+  left: 7.3%;
   overflow: hidden;
 }
 .v5_1055 {
-  width: 36px;
-  height: 36px;
+  width: 3%;
+  height: 100%;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   border-radius: 50%;
 }
 .v5_1056 {
-  width: 22px;
-  height: 22px;
+  width: 1.8%;
+  height: 70%;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
-  top: 7px;
-  left: 7px;
+  top: 15%;
+  left: 0.6%;
   overflow: hidden;
 }
 .v5_1057 {
   width: 47%;
-  height: 20px;
+  height: 80%;
   background:url("../images/fb.png");
   opacity: 1;
   position: absolute;
-  top: 1px;
-  left: 6px;
+  top: 4%;
+  left: 24%;
 }
 .v5_1058 {
-  width: 36px;
-  height: 36px;
+  width: 160%;
+  height: 100%;
   background: url("../images/fb.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  left: 46px;
+  left: 3.6%;
   overflow: hidden;
 }
 .v5_1059 {
-  width: 36px;
-  height: 36px;
+  width: 1.8%;
+  height: 100%;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   border-radius: 50%;
 }
 .v5_1060 {
-  width: 22px;
-  height: 22px;
+  width: 1%;
+  height: 68%;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
-  top: 7px;
-  left: 7px;
+  top: 22%;
+  left: 0.37%;
   overflow: hidden;
 }
 .v5_1061 {
-  width: 18px;
-  height: 18px;
+  width: 100%;
+  height: 100%;
   background: url("../images/v5_1061.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 1px;
-  left: 2px;
+  top: 1%;
+  left: 9%;
   overflow: hidden;
 }
 .v5_1062 {
-  width: 2000%;
-  height: 20px;
+  width: 100%;
+  height: 100%;
   background:url("../images/instasquare.png");
   background-repeat: no-repeat;
   opacity: 1;
   position: absolute;
-  top: -1px;
-  left: -1px;
+  top: 0%;
+  left: 0%;
 }
 .v5_1063 {
   width: 100%;
-  height: 20px;
+  height: 100%;
   background:url("../images/instacircle.png");
   background-repeat: no-repeat;
   opacity: 1;
   position: absolute;
-  top: 5px;
-  left: 4.5px;
+  top: 25%;
+  left: 19%;
 }
 .v5_1064 {
   width: 100%;
-  height: 20px;
+  height: 100%;
   background:url("../images/instadot.png");
   background-repeat: no-repeat;
   opacity: 1;
   position: absolute;
-  top: 3px;
-  left: 12px;
+  top: 16%;
+  left: 65%;
 }
 .v5_1065 {
-  width: 36px;
-  height: 36px;
+  width: 100%;
+  height: 100%;
   background: url("../images/v5_1065.png");
   background-repeat: no-repeat;
   background-position: center center;
@@ -213,8 +213,8 @@ body {
   overflow: hidden;
 }
 .v5_1066 {
-  width: 36px;
-  height: 36px;
+  width: 3%;
+  height: 100%;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
@@ -222,95 +222,60 @@ body {
 }
 .v5_1067 {
   width: 100%;
-  height: 29px;
+  height: 100%;
   background: url("../images/twitter.png");
   opacity: 1;
   position: absolute;
-  top: 9px;
-  left: 6px;
+  top: 25%;
+  left: 0.7%;
   background-repeat: no-repeat;
   overflow: hidden;
 }
 
 
 .v5_1070 {
-  width: 143px;
-    height: 34px;
+  width: 85%;
+    height: 28%;
     background: url(../images/v5_1070.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 40%;
+    margin-top: 5.5%;
     left: 5%;
     overflow: hidden
 }
 .v5_1071 {
-  width: 103px;
+  width: 9%;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: -8px;
-  left: 30px;
+  margin-top: -0.5%;
+  left: 3.5%;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 24px;
+  font-weight: Bold;
+  font-size: 150%;
   opacity: 1;
   text-align: left;
 }
 .v5_1072 {
-  width: 34px;
-  height: 34px;
-  background: url("../images/v5_1072.png");
+  width: 4%;
+  height: 100%;
+  background: url("../images/logo.PNG");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
+  margin-top:-0.4%;
   position: absolute;
   overflow: hidden;
 }
-.v5_1073 {
-  width: 82%;
-  height: 27px;
-  background: url("../images/logo2.png");
-  opacity: 1;
-  position: absolute;
-  top: 6px;
-  left: 7px;
-}
-.v5_1074 {
-  width: 82%;
-    height: 27px;
-    opacity: 1;
-    position: absolute;
 
 
-    background: url("../images/logo1.png")
-}
-.v5_1075 {
-  width: 2px;
-  height: 2px;
-  background: rgba(240,65,72,1);
-  opacity: 1;
-  position: absolute;
-  top: 4px;
-  left: 16px;
-  border-radius: 50%;
-}
-.v5_1076 {
-  width: 2px;
-  height: 2px;
-  background: rgba(255,175,46,1);
-  opacity: 1;
-  position: absolute;
-  top: 26px;
-  left: 16px;
-  border-radius: 50%;
-}
 .v5_1078 {
   display: flex;
     width: 60%;
-    height: 50px;
+    height: 50%;
     opacity: 1;
     position: absolute;
     top: 37%;
@@ -318,49 +283,49 @@ body {
     overflow: hidden;
 }
 .v5_1083 {
-  width: 57px;
+  width: 10%;
     color: rgba(255,255,255,1);
     position: absolute;
 
 
     font-family: Inter;
     font-weight: Medium;
-    font-size: 20px;
+    font-size: 125%;
     opacity: 1;
     text-align: left;
 }
 .v5_1084 {
-  width: 110px;
+  width: 15%;
   color: rgba(255,255,255,1);
   position: absolute;
   left: 35%;
   font-family: Inter;
   font-weight: Medium;
-  font-size: 20px;
+  font-size: 125%;
   opacity: 1;
   text-align: left;
 }
 .v5_1085 {
-  width: 91px;
+  width: 15%;
     color: rgba(255,255,255,1);
     position: absolute;
     top: 0;
     left: 55%;
     font-family: Inter;
     font-weight: Medium;
-    font-size: 20px;
+    font-size: 125%;
     opacity: 1;
     text-align: left;
 }
 .v5_1086 {
-  width: 101px;
+  width: 15%;
     color: rgba(255,255,255,1);
     position: absolute;
     top: 0;
     left: 15%;
     font-family: Inter;
     font-weight: Medium;
-    font-size: 20px;
+    font-size: 125%;
     opacity: 1;
     text-align: left;
 }
