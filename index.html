@@ -36,79 +36,23 @@
         </div>
         <div class="v5_1173">
             <div class="v5_1174">
-                <div class="v5_1175"><div class="v5_1180"></div></div><span class="v5_1176">Alia Karon</span><span class="v5_1177">@Alia</span>
-                <div class="v5_1178">
-                    <div class="v5_1179"></div>
-                    
-                    <div class="v5_1181"></div>
-                </div>
-                <div class="v5_1182">
-                    <div class="v5_1183"></div>
-                    <div class="v5_1184">
-                        <div class="v5_1185">
-                            <i class="fas fa-solid fa-check" style="color: #fafafa; margin-left: 20%;"></i>
-                        </div>
-                        
-                    </div>
-                </div>
+                
             </div>
             <div class="v5_1189">
-                <div class="v5_1190"><div class="v5_1195"></div></div><span class="v5_1191">Masterero Ali</span><span
-                    class="v5_1192">@Master</span>
-                <div class="v5_1193">
-                    <div class="v5_1194"></div>
 
-                    <div class="v5_1196"></div>
-                </div>
-                <div class="v5_1197">
-                    <div class="v5_1198"></div>
-                    <div class="v5_1199">
-                        <div class="v5_1200">
-                            <i class="fas fa-solid fa-check" style="color: #fafafa; margin-left: 20%;"></i>
-                        </div>
-                        
-                    </div>
-                </div>
             </div>
             <div class="v5_1204">
-                <div class="v5_1205"><div class="v5_1210"></div>    </div><span class="v5_1206">Kazi Rahman</span><span class="v5_1207">@Rahman</span>
-                <div class="v5_1208">
-                    <div class="v5_1209"></div>
-                    
-                    <div class="v5_1211"></div>
-                </div>
-                <div class="v5_1212">
-                    <div class="v5_1213"></div>
-                    <div class="v5_1214">
-                        <div class="v5_1215"><i class="fas fa-solid fa-check" style="color: #fafafa; margin-left: 20%;"></i></div>
-                    </div>
-                </div>
+                
             </div>
             <div class="v5_1219">
-                
-                <div class="v5_1220"><div class="v5_1225"></div></div><span class="v5_1221">@rahman</span><span class="v5_1222">Fahim Rahman</span>
-                
-                <div class="v5_1223">
-                    <div class="v5_1224"></div>
-                    
-                    <div class="v5_1226"></div>
-                </div>
-                <div class="v5_1227">
-                    <div class="v5_1228"></div>
-                    <div class="v5_1229">
-                        <div class="v5_1230">
-                            <i class="fas fa-solid fa-check" style="color: #fafafa; margin-left: 20%;"></i>
-                        </div>
-                    </div>
-                </div>
-                
+
             </div>
 
             <div class="v5_1234">
                 <div class="v5_1235"></div>
-                <button class="v5_1236">Newst</button>
-                <button class="v5_1237">Popular</button> 
-                <button class="v5_1238">Active</button>    
+                <button id="newst" class="v5_1236 active" onclick="makeActive('newst')">Newst</button>
+                <button id="popular" class="v5_1237" onclick="makeActive('popular')">Popular</button> 
+                <button id="active" class="v5_1238 " onclick="makeActive('active')">Active</button>    
             </div>
 
             
@@ -162,20 +106,20 @@
                 <div class="v5_1369"></div>
             </div>
             <div class="v5_1370">
-                <div class="form-check v5_1371">
-                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                <div class="v5_1371">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault1" id="flexRadioDefault1" checked>
                     <label class="form-check-label" for="flexRadioDefault1">
                       Groups
                     </label>
                   </div>
-                  <div class="form-check v5_1375">
-                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                  <div class="v5_1375">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault2" id="flexRadioDefault2" checked>
                     <label class="form-check-label" for="flexRadioDefault2">
                         Messages
                     </label>
                   </div>
-                  <div class="form-check v5_1379">
-                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                  <div class="v5_1379">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault3" id="flexRadioDefault2" checked>
                     <label class="form-check-label" for="flexRadioDefault2">
                         Share
                     </label>
@@ -232,6 +176,29 @@
             </div>
         </div>
     </div>
+
+    <script>
+        function makeActive(id) {
+           var element = document.getElementById(id);
+           element.classList.add("active");
+           if (id === 'newst') {
+            var element = document.getElementById('popular');
+            element.classList.remove("active");
+            var element2 = document.getElementById('active');
+            element2.classList.remove("active");
+           } else if (id === 'popular') {
+            var element = document.getElementById('newst');
+            element.classList.remove("active");
+            var element2 = document.getElementById('active');
+            element2.classList.remove("active");
+           } else if (id === 'active') {
+            var element = document.getElementById('newst');
+            element.classList.remove("active");
+            var element2 = document.getElementById('popular');
+            element2.classList.remove("active");
+           }
+        }
+    </script>
 </body>
 
 </html>
